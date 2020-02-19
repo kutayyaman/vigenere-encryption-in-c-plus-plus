@@ -1,14 +1,4 @@
-/****************************************************************************
-** SAKARYA ÜNÝVERSÝTESÝ
-** BÝLGÝSAYAR VE BÝLÝÞÝM BÝLÝMLERÝ FAKÜLTESÝ
-** BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ
-** PROGRAMLAMAYA GÝRÝÞÝ DERSÝ
-**
-** ÖDEV NUMARASI…...: 4
-** ÖÐRENCÝ ADI...............: Kutay
-** ÖÐRENCÝ NUMARASI.: b171210074
-** DERS GRUBU…………: D
-****************************************************************************/
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
